@@ -1,0 +1,7 @@
+Analysis of WeatherPy Data
+
+1. The obvious observation is that temperature increases at a near even rate as you get closer to the equator both from the north and south.
+
+2. Wind speed and cloudiness seem unaffected by latitude change. The distribution seems even and similar in both directions from the equator.
+
+2. Humidity increases sharply at the equator but then becomes more evenly distributed the further away you go.
